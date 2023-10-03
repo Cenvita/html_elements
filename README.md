@@ -1,2 +1,2 @@
 # html_elements
-A simple document HTML with Elements without CSS (així que es normal que aparegui així) 
+Document HTML with Elements without CSS (així que es normal que aparegui així) 
